@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: Tahoma, sans-serif;
+}
+.section {
+    margin: 20px auto;
+}
+.header {
+    font-size: 20px;
+    line-height: 1.5;
+    margin-bottom: 70px;
+}
+.header span {
+    display: block;
+}
+.form {
+    border: 5px solid blue;
+    padding: 20px 10px;
+}
+.form-header {
+    font-size: 20px;
+    font-weight: 900;
+    margin: 30px auto;
+}
+form button {
+    background: blue;
+    color: #fff;
+}
+input {
+    margin-bottom: 13px;
+}
+.feauture-box {
+    margin: 70px auto;
+}
+.feature-header {
+    margin-top: 100px;
+}
+h2 {
+    font-size: 20px;
+    font-weight: 900;
+}
+.feature-btn {
+    background: blue;
+    color: #fff;
+}
